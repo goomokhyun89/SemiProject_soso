@@ -41,7 +41,7 @@
 								<input type="button" id="idsearch" value="카카오 로그인" style="margin-left: 10px;">
 								<input type="button" id="join" value="회원가입" style="margin-left: 10px;">
 							</div>
-						</form>
+						</form> 
 					</div>
 				</section>
 				<!-- Footer -->

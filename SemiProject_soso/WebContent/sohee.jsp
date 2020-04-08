@@ -6,6 +6,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>sohee
+<body>어디갔어
 </body>
 </html>
